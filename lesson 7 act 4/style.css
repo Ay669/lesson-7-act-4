@@ -1,0 +1,15 @@
+h1{
+    text-decoration: rgb(87, 153, 211);
+    text-align: center;
+    color: aqua;
+    background-color: black;
+}
+body{
+    background-color: rgb(214, 214, 16);
+}
+p{
+    font-size: larger;
+    font-style: italic;
+    background-color: brown;
+    color: bisque;
+}
